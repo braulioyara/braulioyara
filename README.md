@@ -12,5 +12,3 @@ You can click the Preview link to take a look at your changes.
 -----------------------------------------------------------------------------------------------------------
 ![Repository Stats](https://github-readme-stats.vercel.app/api?username=braulioyara&show_icons=true)
 
------------------------------------------------------------------------------------------------------------
-![Repository Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=braulioyara&theme=white-red)
